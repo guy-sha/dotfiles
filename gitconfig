@@ -1,0 +1,11 @@
+[user]
+	name = guy-sha
+	email = 77299650+guy-sha@users.noreply.github.com
+	username = guy-sha
+
+[credential]
+	helper = cache --timeout=300
+
+[init]
+	defaultBranch = main
+
