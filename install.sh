@@ -22,6 +22,7 @@ mkdir -p \
 	"$SCRIPTS"
 
 ln -s "$DOTFILES/zshrc" "$HOME/.zshrc"
+ln -s "$DOTFILES/gitconfig" "$HOME/.gitconfig"
 
 ZSHPLUGS=(
 	"zsh-completions"
